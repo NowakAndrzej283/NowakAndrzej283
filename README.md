@@ -2,10 +2,11 @@
 
 ### Hi, I'm Andrzej!
 
-👩🏻‍💻 Software Engineer at the beginning of my journey<br/>
-💭 Currently learning about JavaScript, and Ubuntu Servers<br/>
+🥷 Software Engineer at the beginning of my journey<br/>
+📖 Currently learning about JavaScript, and Ubuntu Servers<br/>
+🏅 WCA ID: 2019NOWA07<br/>
 
-# 💻 Tech Stack
+#  Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
