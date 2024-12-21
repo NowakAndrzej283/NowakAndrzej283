@@ -2,7 +2,7 @@
 
 ### Hi, I'm Andrzej!
 
-👩🏻‍💻 Software Engineer at the beggining of my journey<br/>
+👩🏻‍💻 Software Engineer at the beginning of my journey<br/>
 💭 Currently learning about JavaScript, and Ubuntu Servers<br/>
 
 # 💻 Tech Stack
