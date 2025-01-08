@@ -2,7 +2,7 @@
 
 ### Hi, I'm Andrzej!
 
-🥷 Software Engineer at the beginning of my journey<br/>
+🥷 Electronics and Telecommunications student<br/>
 📖 Currently learning about JavaScript, and Ubuntu Servers<br/>
 🏅 WCA ID: 2019NOWA07<br/>
 
